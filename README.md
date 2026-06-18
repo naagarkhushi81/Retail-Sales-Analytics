@@ -169,7 +169,7 @@ Revenue and profit across regions.
 ![Dashboard_Overview](Dashboard_Overview.png)
 ![Customer Analysis](Customer_Analysis.png)
 ![Product Analysis](Product_Analysis.png)
-![Goegraphy Analysis](Geography_Analysis.png)
+![Geography Analysis](Geography_Analysis.png)
 
 
 
