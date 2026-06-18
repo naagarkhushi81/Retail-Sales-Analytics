@@ -114,6 +114,7 @@ RFM-style aggregation
 
 
 **Dashboard Features**
+
 The Power BI dashboard is built for self-serve exploration:
 
 Global slicers on every page for Year, Region, Customer Segment, and (where relevant) Product Category, so any view can be filtered without leaving the page.
@@ -188,17 +189,26 @@ with a 97% repeat rate, prioritize retention programs (loyalty perks, replenishm
 
 
 **Repository Structure**
+
 Dataset/
+
 PowerBI/
+
 Python/
+
 Dashboard_Screenshots/
+
 Documentation/
 
 
 **Future Improvements**
+
 Sales forecasting
+
 Customer segmentation
+
 RFM dashboard
+
 Automated reporting
 
 
