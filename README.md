@@ -90,17 +90,29 @@ Revenue and profit across regions.
 
 **Key Insights**
 Revenue is evenly spread across regions, with North leading at roughly ₹5.43M and West trailing at roughly ₹5.09M — a gap of only about 7%, meaning no single region is carrying or dragging the business disproportionately.
+
 Furniture is the top category by revenue (≈₹7.18M), narrowly ahead of Clothing (≈₹6.92M) and Electronics (≈₹6.74M), but Electronics has the highest profit margin (≈28.2%) versus Furniture (≈26.6%) and Clothing (≈26.9%) — Furniture sells more but Electronics is more efficient per rupee of revenue.
+
 Cabinet, Jacket, and Sofa are the top three products by revenue, while Cabinet, Laptop, and Tablet are the top three by profit — the highest-revenue product isn't always the highest-profit one, so revenue rankings alone can be misleading for assortment decisions.
+
 Customer segments are nearly balanced: Home Office (≈₹7.01M), Corporate (≈₹6.99M), and Consumer (≈₹6.84M) each contribute roughly a third of revenue, indicating no single segment should be deprioritized.
+
 Year-over-year revenue is essentially flat (≈₹6.93M in 2023, ≈₹6.94M in 2024, ≈₹6.98M in 2025) — growth has stagnated over the three-year window rather than trending up or down.
+
 Customer retention is high: 962 of 994 customers (about 97%) placed more than one order, indicating the existing customer base is largely repeat business rather than one-off purchases.
 
 **Business Recommendations**
-**Double down on Electronics margin advantage:** since Electronics carries the best profit margin but trails Furniture in revenue, consider targeted promotions or bundling to grow Electronics' share of revenue without sacrificing its margin profile.
-**Separate "what sells" from "what's profitable" in merchandising decisions:** use the Profit Margin by Product view before expanding inventory on high-revenue-but-lower-margin items like Jacket or Sofa.
-**Address flat year-over-year growth:** with revenue essentially unchanged across 2023–2025, investigate whether this reflects market saturation, pricing pressure, or reduced marketing investment, and test region- or segment-specific growth campaigns using the dashboard's slicers to monitor impact.
-**Protect and grow the repeat-customer base:** with a 97% repeat rate, prioritize retention programs (loyalty perks, replenishment reminders) over new-customer acquisition spend, while still monitoring the small new-customer segment for growth opportunities.
+**Double down on Electronics margin advantage:** 
+since Electronics carries the best profit margin but trails Furniture in revenue, consider targeted promotions or bundling to grow Electronics' share of revenue without sacrificing its margin profile.
+
+**Separate "what sells" from "what's profitable" in merchandising decisions:**
+use the Profit Margin by Product view before expanding inventory on high-revenue-but-lower-margin items like Jacket or Sofa.
+
+**Address flat year-over-year growth:**
+with revenue essentially unchanged across 2023–2025, investigate whether this reflects market saturation, pricing pressure, or reduced marketing investment, and test region- or segment-specific growth campaigns using the dashboard's slicers to monitor impact.
+
+**Protect and grow the repeat-customer base:**
+with a 97% repeat rate, prioritize retention programs (loyalty perks, replenishment reminders) over new-customer acquisition spend, while still monitoring the small new-customer segment for growth opportunities.
 
 **Repository Structure**
 Dataset/
