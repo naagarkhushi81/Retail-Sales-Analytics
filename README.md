@@ -2,13 +2,20 @@
 Retail Sales Analytics Project using Python and Power BI for business intelligence, KPI tracking, customer insights, and sales performance analysis.
 
 Retail Sales Analytics Dashboard
+
+
 **Project Overview**
+
 This project analyzes retail sales performance using Python and Power BI. The objective is to identify sales trends, customer behavior, regional performance, and profitability insights that support business decision-making.
 
+
 **Business Problem**
+
 A retail business operating across India's North, South, East, and West regions needs a single source of truth to answer recurring questions: which regions, states, and cities are driving (or dragging down) revenue and profit; which product categories and individual products are most and least profitable; how customer segments differ in value; and whether sales performance is seasonal or trending. 
 
+
 **Objectives**
+
 Analyze sales performance
 
 Evaluate profitability trends
@@ -18,6 +25,7 @@ Engineer time-based features (year, month, quarter, weekday, year-month cohort) 
 Explore the data to identify top/bottom performing products, regions, states, cities, and customer segments
 
 Create interactive dashboards
+
 
 **Dataset Description**
 
@@ -53,6 +61,7 @@ Profit
 
 Customer Segment
 
+
 **Tools & Technologies**
 
 Python
@@ -67,6 +76,7 @@ Seaborn
 
 Power BI
 
+
 **Data Cleaning Process**
 
 Removed duplicate records
@@ -80,6 +90,7 @@ Created Month column
 Calculated Profit Margin
 
 Verified Profit calculations
+
 
 **Exploratory Data Analysis**
 
@@ -100,6 +111,7 @@ Correlation Analysis
 Pareto Analysis
 
 RFM-style aggregation
+
 
 **Dashboard Features**
 The Power BI dashboard is built for self-serve exploration:
@@ -126,6 +138,7 @@ Revenue per Customer
 
 Profit Margin %
 
+
 **Dashboard Pages**
 
 **Executive Overview**
@@ -140,7 +153,9 @@ Product sales and profitability analysis.
 **Regional Analysis**
 Revenue and profit across regions.
 
+
 **Dashboard Screenshots**
+
 
 **Key Insights**
 
@@ -156,6 +171,7 @@ Year-over-year revenue is essentially flat (≈₹6.93M in 2023, ≈₹6.94M in 
 
 Customer retention is high: 962 of 994 customers (about 97%) placed more than one order, indicating the existing customer base is largely repeat business rather than one-off purchases.
 
+
 **Business Recommendations**
 
 **Double down on Electronics margin advantage:** 
@@ -170,6 +186,7 @@ with revenue essentially unchanged across 2023–2025, investigate whether this 
 **Protect and grow the repeat-customer base:**
 with a 97% repeat rate, prioritize retention programs (loyalty perks, replenishment reminders) over new-customer acquisition spend, while still monitoring the small new-customer segment for growth opportunities.
 
+
 **Repository Structure**
 Dataset/
 PowerBI/
@@ -177,11 +194,13 @@ Python/
 Dashboard_Screenshots/
 Documentation/
 
+
 **Future Improvements**
 Sales forecasting
 Customer segmentation
 RFM dashboard
 Automated reporting
+
 
 **Author**
 Khushi Naagar
